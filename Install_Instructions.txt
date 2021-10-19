@@ -1,6 +1,6 @@
 To install this project, run the following commands:
 
-sudo cp brain.bin /usr/local/bin
+sudo cp -f brain.bin /usr/local/bin
 sudo chmod 755 /usr/local/bin/brain.bin
 
  
