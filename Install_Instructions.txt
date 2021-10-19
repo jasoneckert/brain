@@ -1,6 +1,6 @@
-To install this project, run the following commands:
+To install this project, run the following commands in your Terminal app (/Applications/Utilities/Terminal):
 
 sudo cp -f brain.bin /usr/local/bin
 sudo chmod 755 /usr/local/bin/brain.bin
 
- 
+This will copy the brain.bin program to your /usr/local/bin directory, and ensure that everyone can run it. 
