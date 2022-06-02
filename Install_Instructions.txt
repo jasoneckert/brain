@@ -4,4 +4,4 @@ sudo cp -f brain.bin /usr/local/bin
 sudo chgrp staff /usr/local/bin/brain.bin 
 sudo chmod 510 /usr/local/bin/brain.bin
 
-This will copy the brain.bin program to your /usr/local/bin directory, and ensure that admins can run it. 
+This will copy the brain.bin program to your /usr/local/bin directory, and ensure that you and the staff group can run it.
